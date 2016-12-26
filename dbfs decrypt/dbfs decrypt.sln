@@ -1,0 +1,18 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+# SharpDevelop 4.3
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "dbfs decrypt", "dbfs decrypt\dbfs decrypt.csproj", "{5F724268-D18C-4834-A1BA-AC9171DB3407}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{5F724268-D18C-4834-A1BA-AC9171DB3407}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5F724268-D18C-4834-A1BA-AC9171DB3407}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5F724268-D18C-4834-A1BA-AC9171DB3407}.Release|Any CPU.Build.0 = Release|Any CPU
+		{5F724268-D18C-4834-A1BA-AC9171DB3407}.Release|Any CPU.ActiveCfg = Release|Any CPU
+	EndGlobalSection
+EndGlobal

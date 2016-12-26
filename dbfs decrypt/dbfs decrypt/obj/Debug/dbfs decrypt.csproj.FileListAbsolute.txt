@@ -1,0 +1,7 @@
+C:\Users\msi\Documents\SharpDevelop Projects\dbfs decrypt\dbfs decrypt\bin\Debug\dbfs decrypt.exe
+C:\Users\msi\Documents\SharpDevelop Projects\dbfs decrypt\dbfs decrypt\bin\Debug\dbfs decrypt.pdb
+C:\Users\msi\Documents\SharpDevelop Projects\dbfs decrypt\dbfs decrypt\obj\Debug\dbfs decrypt.csprojResolveAssemblyReference.cache
+C:\Users\msi\Documents\SharpDevelop Projects\dbfs decrypt\dbfs decrypt\obj\Debug\dbfs_decrypt.MainForm.resources
+C:\Users\msi\Documents\SharpDevelop Projects\dbfs decrypt\dbfs decrypt\obj\Debug\dbfs decrypt.csproj.GenerateResource.Cache
+C:\Users\msi\Documents\SharpDevelop Projects\dbfs decrypt\dbfs decrypt\obj\Debug\dbfs decrypt.exe
+C:\Users\msi\Documents\SharpDevelop Projects\dbfs decrypt\dbfs decrypt\obj\Debug\dbfs decrypt.pdb
